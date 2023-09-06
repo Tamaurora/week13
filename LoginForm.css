@@ -1,0 +1,13 @@
+.login-form {
+    text-align: center;
+    border: 2px solid #ccc;
+    padding: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .login-form h3 {
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
